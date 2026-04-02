@@ -1,5 +1,5 @@
 # 💫 About Me:
-* Second-year Computer Science Engineering student, currently in the fourth semester<br>* Interested in core CS concepts like data structures, algorithms, and software development<br>* Passionate about problem-solving and building practical, efficient solutions<br>* Continuously learning new technologies and improving coding skills through projects<br>* Eager to collaborate, gain real-world experience, and grow as a developer<br>
+* I’m a Computer Science student with a strong passion for coding and design. I enjoy building things that are both functional and visually engaging, and I’m always curious to explore new technologies and creative ideas.<br>* I’m a highly collaborative person who loves working with others, sharing knowledge, and learning from different perspectives. I’m always eager to improve my skills and take on new challenges that help me grow both technically and personally.<br>*Driven by curiosity and a desire to keep learning, I aim to continuously develop myself and reach greater heights in the field of technology. replace with this<br>
 
 
 ## 🌐 Socials:
